@@ -17,7 +17,7 @@ I'm a passionate software developer with a strong drive to create innovative sol
 - **Open Source Contributions**: Joining forces with other developers to enhance existing open source projects or start new ones that can benefit the wider community.
 
 ## 📫 How to reach me 
-- **Email**: jarvandings@gmail.com
+- **Email**: jarvanding@gmail.com
 - **LinkedIn**: [Jarvan Ding](https://www.linkedin.com/in/jarvan-ding/)
 - **Twitter**: [@JarvanDing](https://twitter.com/JarvanDing)
 
